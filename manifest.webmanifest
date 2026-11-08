@@ -1,0 +1,10 @@
+{
+  "name": "FinControl \u2013 Personal & Business Finance",
+  "short_name": "FinControl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d1420",
+  "theme_color": "#101827",
+  "description": "Offline-first personal finance, credit card and deal tracker.",
+  "icons": []
+}
